@@ -1,0 +1,12 @@
+# Core libraries
+torch
+torchvision
+albumentations
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorboard
+tqdm
+tabulate
+torchsummary
